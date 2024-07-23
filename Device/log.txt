@@ -1,0 +1,102 @@
+2024-04-29 11:00:03 [debug    / 128kB]   - turn on activity led
+2024-04-29 11:00:03 [debug    / 123kB] > 98 blocks free out of 212
+2024-04-29 11:00:04 [debug    / 121kB] > taking new reading
+2024-04-29 11:00:04 [info     / 116kB]   - seconds since last reading: 900
+2024-04-29 11:00:04 [debug    / 111kB] > caching reading for upload
+2024-04-29 11:00:04 [info     / 107kB] > 1 cache file(s) not being uploaded. Waiting until there are 10 file(s)
+2024-04-29 11:00:04 [info     / 104kB] > going to sleep
+2024-04-29 11:00:04 [debug    / 136kB]   - clearing and disabling previous alarm
+2024-04-29 11:00:04 [info     / 133kB]   - setting alarm to wake at 11:15am
+2024-04-29 11:00:04 [info     / 131kB]   - shutting down
+2024-04-29 11:15:03 [info     / 138kB] > performing startup
+2024-04-29 11:15:03 [debug    / 135kB]   - running Enviro 0.0.10, MicroPython 856e08b1931b88271816a2f60648f6ff332235b2, enviro v1.20.4 on 2023-08-04
+2024-04-29 11:15:03 [info     / 130kB]   - wake reason: rtc_alarm
+2024-04-29 11:15:03 [debug    / 128kB]   - turn on activity led
+2024-04-29 11:15:03 [debug    / 123kB] > 98 blocks free out of 212
+2024-04-29 11:15:03 [debug    / 121kB] > taking new reading
+2024-04-29 11:15:04 [info     / 116kB]   - seconds since last reading: 900
+2024-04-29 11:15:04 [debug    / 111kB] > caching reading for upload
+2024-04-29 11:15:04 [info     / 106kB] > 2 cache file(s) not being uploaded. Waiting until there are 10 file(s)
+2024-04-29 11:15:04 [info     / 104kB] > going to sleep
+2024-04-29 11:15:04 [debug    / 135kB]   - clearing and disabling previous alarm
+2024-04-29 11:15:04 [info     / 133kB]   - setting alarm to wake at 11:30am
+2024-04-29 11:15:04 [info     / 131kB]   - shutting down
+2024-04-29 11:30:03 [info     / 138kB] > performing startup
+2024-04-29 11:30:03 [debug    / 135kB]   - running Enviro 0.0.10, MicroPython 856e08b1931b88271816a2f60648f6ff332235b2, enviro v1.20.4 on 2023-08-04
+2024-04-29 11:30:03 [info     / 130kB]   - wake reason: rtc_alarm
+2024-04-29 11:30:03 [debug    / 128kB]   - turn on activity led
+2024-04-29 11:30:03 [debug    / 123kB] > 98 blocks free out of 212
+2024-04-29 11:30:03 [debug    / 121kB] > taking new reading
+2024-04-29 11:30:04 [info     / 116kB]   - seconds since last reading: 900
+2024-04-29 11:30:04 [debug    / 111kB] > caching reading for upload
+2024-04-29 11:30:04 [info     / 106kB] > 3 cache file(s) not being uploaded. Waiting until there are 10 file(s)
+2024-04-29 11:30:04 [info     / 137kB] > going to sleep
+2024-04-29 11:30:04 [debug    / 135kB]   - clearing and disabling previous alarm
+2024-04-29 11:30:04 [info     / 133kB]   - setting alarm to wake at 11:45am
+2024-04-29 11:30:04 [info     / 131kB]   - shutting down
+2024-04-29 11:45:03 [info     / 138kB] > performing startup
+2024-04-29 11:45:03 [debug    / 135kB]   - running Enviro 0.0.10, MicroPython 856e08b1931b88271816a2f60648f6ff332235b2, enviro v1.20.4 on 2023-08-04
+2024-04-29 11:45:03 [info     / 130kB]   - wake reason: rtc_alarm
+2024-04-29 11:45:03 [debug    / 128kB]   - turn on activity led
+2024-04-29 11:45:03 [debug    / 123kB] > 98 blocks free out of 212
+2024-04-29 11:45:03 [debug    / 121kB] > taking new reading
+2024-04-29 11:45:04 [info     / 136kB]   - seconds since last reading: 900
+2024-04-29 11:45:04 [debug    / 130kB] > caching reading for upload
+2024-04-29 11:45:04 [info     / 125kB] > 4 cache file(s) not being uploaded. Waiting until there are 10 file(s)
+2024-04-29 11:45:04 [info     / 123kB] > going to sleep
+2024-04-29 11:45:04 [debug    / 121kB]   - clearing and disabling previous alarm
+2024-04-29 11:45:04 [info     / 119kB]   - setting alarm to wake at 12:00pm
+2024-04-29 11:45:05 [info     / 116kB]   - shutting down
+2024-04-29 12:00:03 [info     / 138kB] > performing startup
+2024-04-29 12:00:03 [debug    / 135kB]   - running Enviro 0.0.10, MicroPython 856e08b1931b88271816a2f60648f6ff332235b2, enviro v1.20.4 on 2023-08-04
+2024-04-29 12:00:03 [info     / 130kB]   - wake reason: rtc_alarm
+2024-04-29 12:00:03 [debug    / 128kB]   - turn on activity led
+2024-04-29 12:00:03 [debug    / 123kB] > 99 blocks free out of 212
+2024-04-29 12:00:04 [debug    / 121kB] > taking new reading
+2024-04-29 12:00:04 [info     / 116kB]   - seconds since last reading: 900
+2024-04-29 12:00:04 [debug    / 111kB] > caching reading for upload
+2024-04-29 12:00:04 [info     / 105kB] > 5 cache file(s) not being uploaded. Waiting until there are 10 file(s)
+2024-04-29 12:00:04 [info     / 137kB] > going to sleep
+2024-04-29 12:00:04 [debug    / 135kB]   - clearing and disabling previous alarm
+2024-04-29 12:00:04 [info     / 133kB]   - setting alarm to wake at 12:15pm
+2024-04-29 12:00:04 [info     / 131kB]   - shutting down
+2024-04-29 12:15:03 [info     / 138kB] > performing startup
+2024-04-29 12:15:03 [debug    / 135kB]   - running Enviro 0.0.10, MicroPython 856e08b1931b88271816a2f60648f6ff332235b2, enviro v1.20.4 on 2023-08-04
+2024-04-29 12:15:03 [info     / 130kB]   - wake reason: rtc_alarm
+2024-04-29 12:15:03 [debug    / 128kB]   - turn on activity led
+2024-04-29 12:15:03 [debug    / 123kB] > 98 blocks free out of 212
+2024-04-29 12:15:03 [debug    / 121kB] > taking new reading
+2024-04-29 12:15:04 [info     / 116kB]   - seconds since last reading: 900
+2024-04-29 12:15:04 [debug    / 111kB] > caching reading for upload
+2024-04-29 12:15:04 [info     / 105kB] > 6 cache file(s) not being uploaded. Waiting until there are 10 file(s)
+2024-04-29 12:15:04 [info     / 136kB] > going to sleep
+2024-04-29 12:15:04 [debug    / 133kB]   - clearing and disabling previous alarm
+2024-04-29 12:15:04 [info     / 131kB]   - setting alarm to wake at 12:30pm
+2024-04-29 12:15:04 [info     / 129kB]   - shutting down
+2024-04-29 12:30:03 [info     / 138kB] > performing startup
+2024-04-29 12:30:03 [debug    / 135kB]   - running Enviro 0.0.10, MicroPython 856e08b1931b88271816a2f60648f6ff332235b2, enviro v1.20.4 on 2023-08-04
+2024-04-29 12:30:03 [info     / 130kB]   - wake reason: rtc_alarm
+2024-04-29 12:30:03 [debug    / 128kB]   - turn on activity led
+2024-04-29 12:30:03 [debug    / 123kB] > 98 blocks free out of 212
+2024-04-29 12:30:03 [debug    / 121kB] > taking new reading
+2024-04-29 12:30:04 [info     / 116kB]   - seconds since last reading: 899
+2024-04-29 12:30:04 [debug    / 111kB] > caching reading for upload
+2024-04-29 12:30:04 [info     / 105kB] > 7 cache file(s) not being uploaded. Waiting until there are 10 file(s)
+2024-04-29 12:30:04 [info     / 135kB] > going to sleep
+2024-04-29 12:30:04 [debug    / 133kB]   - clearing and disabling previous alarm
+2024-04-29 12:30:04 [info     / 131kB]   - setting alarm to wake at 12:45pm
+2024-04-29 12:30:04 [info     / 129kB]   - shutting down
+2024-04-29 12:38:59 [info     / 138kB] > performing startup
+2024-04-29 12:38:59 [debug    / 135kB]   - running Enviro 0.0.10, MicroPython 856e08b1931b88271816a2f60648f6ff332235b2, enviro v1.20.4 on 2023-08-04
+2024-04-29 12:38:59 [info     / 129kB]   - wake reason: usb_powered
+2024-04-29 12:38:59 [debug    / 128kB]   - turn on activity led
+2024-04-29 12:38:59 [debug    / 123kB] > 98 blocks free out of 212
+2024-04-29 12:38:59 [debug    / 121kB] > taking new reading
+2024-04-29 12:39:00 [info     / 116kB]   - seconds since last reading: 537
+2024-04-29 12:39:00 [debug    / 110kB] > caching reading for upload
+2024-04-29 12:39:00 [info     / 120kB] > 8 cache file(s) not being uploaded. Waiting until there are 10 file(s)
+2024-04-29 12:39:00 [info     / 117kB] > going to sleep
+2024-04-29 12:39:00 [debug    / 115kB]   - clearing and disabling previous alarm
+2024-04-29 12:39:01 [info     / 113kB]   - setting alarm to wake at 12:45pm
+2024-04-29 12:39:01 [info     / 111kB]   - shutting down
+2024-04-29 12:39:01 [debug    / 109kB]   - on usb power (so can't shutdown). Halt and wait for alarm or user reset instead
